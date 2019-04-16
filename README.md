@@ -6,6 +6,7 @@ Our application allows users to navigate through the different tabs that generat
 #### Demo:
 
 <a href="https://imgflip.com/gif/2yr48r"><img src="https://i.imgflip.com/2yr48r.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2yr6ug"><img src="https://i.imgflip.com/2yr6ug.gif" title="made at imgflip.com"/></a>
 
 ### Installation Instructions:
 
