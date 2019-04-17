@@ -21,6 +21,3 @@ Copy and paste the following lines below into your terminal:
 `npm install`
 
 `npm start`
-
-### WireFrames
-![Wireframe Image](src/images/wireframe.jpg)
